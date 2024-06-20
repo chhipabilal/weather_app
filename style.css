@@ -8,7 +8,7 @@
 }
 
 .container {
-    background: #171717;
+    background: rgb(2, 2, 37);
     color: #fff;
     padding: 2rem;
     width: 40%;
@@ -137,4 +137,7 @@ input::placeholder {
     .weather__info {
         grid-template-columns: none;
     }
+}
+body {
+    background-image: https://www.pinterest.com/pin/rainy-weather-ui-interaction--718816790504255302/;
 }
